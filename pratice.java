@@ -2,6 +2,6 @@ package demmogit;
 
 public class pratice {
 	public void testdata(){
-		System.out.println("git");
+		System.out.println("gitt");
 	}
 }
